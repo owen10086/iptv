@@ -36,32 +36,18 @@ https://streaming101tv.es/hls/webronda.m3u8
 https://streaming101tv.es/hls/websevilla.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="AfortunadasTV.es",Afortunadas TV (720p)
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-id="AlacantiTV.es",Alacantí TV (576p) [Not 24/7]
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es",Alcarria TV (576p) [Not 24/7]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es",Alcarria TV (576p) [Not 24/7]
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.us@Spain",AMC (Spain) (720p)
-http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.es",Antena 3 (720p)
 http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-id="AquiNoHayQuienViva.es",Aqui No Hay Quien Viva (720p)
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es",Aragón TV (720p) [Not 24/7]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="AtresplayerClasicos.es",Atresplayer Clasicos (1080p)
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-#EXTINF:-1 tvg-id="AtresplayerComedia.es",Atresplayer Comedia (1080p)
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-#EXTINF:-1 tvg-id="AtresplayerInquietos.es",Atresplayer Inquietos (1080p)
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
-#EXTINF:-1 tvg-id="AtresplayerMulticine.es",Atresplayer Multicine (1080p)
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain",BabyTV (Spain) (1080p)
 http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 tvg-id="BailenTV.es",Bailén TV (720p) [Not 24/7]
@@ -229,12 +215,8 @@ https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=
 https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="El33SX3.es",El 33 SX3 (1080p) [Geo-blocked]
 https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="ElClubdelaComedia.es",El Club de la Comedia (1080p)
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 #EXTINF:-1 tvg-id="ElConfidencialTV.es",El Confidencial TV (1080p)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-id="ElHormiguero.es",El Hormiguero (1080p)
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 #EXTINF:-1 tvg-id="ElPaisTV.es",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es",El Toro TV (720p)
@@ -243,8 +225,6 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="EmpordaTV.es",Empordà TV (1080p)
 https://video3.lhdserver.es/empordatv2/live.m3u8
-#EXTINF:-1 tvg-id="EquipodeInvestigacion.es",Equipo de Investigacion (1080p)
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1 tvg-id="ErloTelebista.es",Erlo Telebista (720p)
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es",Esport3 (1080p) [Geo-blocked]
@@ -273,12 +253,8 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1 tvg-id="Fibwi.es",Fibwi (1080p) [Not 24/7]
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="FisicaoQuimica.es",Fisica o Quimica (1080p)
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 #EXTINF:-1 tvg-id="FitelTV.es",Fitel TV (1080p)
 https://tv.mywifisocial.es/live.m3u8
-#EXTINF:-1 tvg-id="Flooxer.es",Flooxer (1080p)
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 #EXTINF:-1 tvg-id="FuengirolaTV.es",Fuengirola TV (360p) [Not 24/7]
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es",Fuerteventura TV (1080p)
@@ -663,10 +639,6 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-id="ZafraTV.es" http-referrer="https://player.streamingconnect.com/",Zafra TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
-#EXTINF:-1 tvg-id="BomCine.es",Bom Cine (720p)
-https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-#EXTINF:-1 tvg-id="Squirrel.es",Squirrel (1080p)
-https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-id="28kanala.es@SD",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es@SD",Barca TV
